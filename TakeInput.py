@@ -11,6 +11,8 @@ x=input("Enter your Name:")
 print(x)
 y=input("Enter your Age:")
 print(y)
+z=int(input("Enter your Contact Number:")
+print(z)
 
 # Output
 
@@ -19,3 +21,6 @@ print(y)
 
 #   Enter your Age:21
 #   21
+      
+#   Enter you Contact Number:1234567890
+#   1234567890
