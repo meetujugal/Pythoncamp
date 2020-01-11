@@ -12,3 +12,9 @@ print(x*y)
 print(x-y)
 print(x/y)
 print(x**y)
+#output
+#6
+#8
+#2
+#2
+#16
